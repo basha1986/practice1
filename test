@@ -1,2 +1,6 @@
 Hello i am feature
+<<<<<<< HEAD
 hello i am feature1
+=======
+Adding second line in feature
+>>>>>>> feature
